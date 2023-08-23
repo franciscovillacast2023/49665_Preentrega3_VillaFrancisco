@@ -5,7 +5,7 @@ var carritoVisible = false;
 let producto;
 
 async function fetchProductosJSON() {
-    let res = await fetch('./productos.json');
+    let res = await fetch("./productos.json");
     let data = await res.json();
     producto = data;
     return data;
