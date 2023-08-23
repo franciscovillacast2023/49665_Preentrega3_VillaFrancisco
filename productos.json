@@ -1,59 +1,50 @@
 [
-	{
-		"price": 749991,
-		"id": 1,
-		"title": "Lenovo IdeaPad Slim 5i 8va Gen (14”, Intel)",
-		"image": "./img/notebook1.jpg"
-	},
-
-	{
-		"price": 1199990,
-		"id": 2,
-		"title": "ThinkBook 16 4ta Gen - Arctic Grey",
-		"image": "./img/notebook2.jpg"
-	},
-
-	{
-		"price": 1099990,
-		"id": 3,
-		"title": "ThinkPad P14s 2da Gen (14”, Intel)",
-		"image": "./img/notebook3.jpg"
-	},
-
-	{
-		"price": 399990,
-		"id": 4,
-		"title": "ThinkPad L15 (15.6”, AMD)",
-		"image": "./img/notebook4.jpg"
-	},
-
-	{
-		"price": 599991,
-		"id": 5,
-		"title": "IdeaPad Flex 5 (14”, AMD)",
-		"image": "./img/notebook5.jpg"
-	},
-
-	{
-		"price": 789990,
-		"id": 6,
-		"title": "ThinkBook 14 2da Gen (14”, Intel)",
-		"image": "./img/notebook6.jpg"
-	},
-
-	{
-		"price": 1471024,
-		"id": 7,
-		"title": "Lenovo ThinkPad E16 (16”, Intel)",
-		"image": "./img/notebook7.jpg"
-	},
-
-	{
-		"price": 899990,
-		"id": 8,
-		"title": "Yoga Slim 6i 8va Gen (14”, Intel)",
-		"image": "./img/notebook8.jpg"
-	}
-
-	
+    {
+        "price": 749991,
+        "id": 1,
+        "title": "Lenovo IdeaPad Slim 5i 8va Gen (14”, Intel)",
+        "image": "./img/notebook1.jpg"
+    },
+    {
+        "price": 1199990,
+        "id": 2,
+        "title": "ThinkBook 16 4ta Gen - Arctic Grey",
+        "image": "./img/notebook2.jpg"
+    },
+    {
+        "price": 1099990,
+        "id": 3,
+        "title": "ThinkPad P14s 2da Gen (14”, Intel)",
+        "image": "./img/notebook3.jpg"
+    },
+    {
+        "price": 399990,
+        "id": 4,
+        "title": "ThinkPad L15 (15.6”, AMD)",
+        "image": "./img/notebook4.jpg"
+    },
+    {
+        "price": 599991,
+        "id": 5,
+        "title": "IdeaPad Flex 5 (14”, AMD)",
+        "image": "./img/notebook5.jpg"
+    },
+    {
+        "price": 789990,
+        "id": 6,
+        "title": "ThinkBook 14 2da Gen (14”, Intel)",
+        "image": "./img/notebook6.jpg"
+    },
+    {
+        "price": 1471024,
+        "id": 7,
+        "title": "Lenovo ThinkPad E16 (16”, Intel)",
+        "image": "./img/notebook7.jpg"
+    },
+    {
+        "price": 899990,
+        "id": 8,
+        "title": "Yoga Slim 6i 8va Gen (14”, Intel)",
+        "image": "./img/notebook8.jpg"
+    }
 ]
